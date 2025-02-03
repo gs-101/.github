@@ -1,0 +1,23 @@
+#+title: .github
+
+GitHub repository for holding default files.
+
+* Present Files
+
+Listed below are the current files of this repository.
+
+** [[./docs/CONTRIBUTING.md][CONTRIBUTING]]
+
+** Issues
+
+*** [[./.github/ISSUE_TEMPLATE/bug-report.md][Bug Report]]
+
+** Pull Requests
+
+*** [[./.github/PULL_REQUEST_TEMPLATE/feat.md][Feature]]
+
+*** [[./.github/PULL_REQUEST_TEMPLATE/refactor.md][Refactor]]
+
+*** [[./.github/PULL_REQUEST_TEMPLATE/fix.md][Bug Fix]]
+
+*** [[./.github/PULL_REQUEST_TEMPLATE/docs.md][Documentation]]
